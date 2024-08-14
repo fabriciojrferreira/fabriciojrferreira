@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Fabricio Ferreira 👋
 
-<!--
-**fabriciojrferreira/fabriciojrferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou um programador web apaixonado por tecnologia, soluções inovadoras. Estou sempre buscando aprender e aplicar novas habilidades.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Web**: HTML5, CSS3
+- **Linguagens**: Javascript, PHP, C, SQL 
+- **Ferramentas**: Git, VSCode, Sublime Text
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Estou Aprendendo
+- React
+- NodeJS
+- SASS
+- MongoDB
+
+## 📫 Como Me Encontrar
+- **LinkedIn**: https://www.linkedin.com/in/fabriciojuniorferreira/
+- **X**: https://x.com/fabriciojrreira
+
+💬 **Sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo.** Estou sempre aberto a novas oportunidades e colaborações!
+
