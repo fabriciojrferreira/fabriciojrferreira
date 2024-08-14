@@ -14,8 +14,8 @@ Bem-vindo ao meu perfil! Sou um programador web apaixonado por tecnologia, solu�
 - MongoDB
 
 ## 📫 Como Me Encontrar
-- **LinkedIn**: https://www.linkedin.com/in/fabriciojuniorferreira/
-- **X**: https://x.com/fabriciojrreira
+- [Rede Social LinkedIn](https://www.linkedin.com/in/fabriciojuniorferreira/)
+- [Rede Social X](https://x.com/fabriciojrreira)
 
 💬 **Sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo.** Estou sempre aberto a novas oportunidades e colaborações!
 
